@@ -53,7 +53,7 @@ The dashboard enables users to:
 ## Project Files
 
 - `Dashboard Power BI.pbix` – Power BI report containing the interactive dashboard.
-- `images/` – Dashboard screenshots for previewing the report on GitHub.
+- `images` – Dashboard screenshots for previewing the report on GitHub.
 
 ## How to View the Dashboard
 
