@@ -1,67 +1,58 @@
-# Sales Performance Analysis & Dashboard – Power BI
+# ☕ Kopi Nusantara – Business Performance Analysis (2023–2025)
 
-## Project Overview
+## 📌 Project Overview
+This project analyzes Kopi Nusantara’s business performance from 2023 to 2025 through an interactive dashboard. The analysis focuses on revenue trends, transaction volume, product performance, category contribution, and revenue distribution across cities.
 
-This project presents an interactive Power BI dashboard designed to monitor sales performance and analyze business results across products, categories, and locations.
+The dashboard provides insights into business performance to identify top-performing products, understand sales patterns, and highlight opportunities for revenue growth.
 
-The dashboard provides an overview of key business metrics and enables users to explore revenue trends, product performance, and sales distribution to support data-driven decision-making.
-
-## Dashboard Pages
-
-### 1. Overview
-Provides a high-level summary of business performance, including:
-- Total Revenue
-- Total Transactions
-- Total Quantity
-- Gross Profit
-- Revenue trends over time
-- Revenue by product category
-- Revenue by city
-
-### 2. Product Analysis
-Focuses on product-level performance and revenue contribution, including:
-- Total Products
-- Average Product Price
-- Average Gross Margin
-- Revenue by product
-- Revenue by category
-- Revenue by subcategory
-
-## Tools Used
-
-- **Microsoft Power BI** – Dashboard development and data visualization
-
-## Key Features
-
-- Interactive dashboard with year and location filters
-- KPI monitoring for sales and profitability
-- Time-based revenue trend analysis
-- Product and category performance comparison
-- Geographic sales performance analysis
-
-## Key Insights
-
-The dashboard enables users to:
-- Monitor overall revenue and transaction performance.
-- Identify product categories and subcategories contributing to revenue.
+## 🎯 Project Objectives
+- Monitor overall business performance using key metrics.
+- Analyze monthly revenue trends from 2023 to 2025.
+- Identify top-performing products, categories, and subcategories.
 - Compare revenue performance across cities.
-- Explore changes in revenue over time.
-- Evaluate product performance using sales and profitability metrics.
+- Provide data-driven insights to support business decisions.
 
-*Note: Specific numerical findings and business recommendations can be added after conducting a detailed analysis of the dashboard results.*
+## 📊 Dashboard Preview
 
-## Project Files
+### 1. Business Performance Overview
+![Kopi Nusantara Dashboard](Images/Overview)
+This dashboard presents an overview of key business metrics, monthly revenue trends, revenue by category, and revenue distribution across cities.
 
-- `Dashboard Power BI.pbix` – Power BI report containing the interactive dashboard.
-- `images` – Dashboard screenshots for previewing the report on GitHub.
+### 2. Product Performance Analysis
+![Kopi Nusantara Dashboard](Images/Product analysis)
+This dashboard highlights the top 10 products by revenue, category contribution, and revenue distribution across subcategories.
 
-## How to View the Dashboard
+## 🔍 Key Insights
+- **Revenue Contribution:** Beverages generated 110M, accounting for 64.75% of total revenue.
+- **Top Subcategory:** Cold coffee recorded the highest subcategory revenue at 62M.
+- **Top Market:** Bandung led city-level revenue with 44M, followed by Jakarta at 39M.
+- **Top Product:** Nasi Goreng Kopi ranked first among the top 10 products, generating 13.6M in revenue.
 
-1. Download the `.pbix` file from this repository.
-2. Open the file using Microsoft Power BI Desktop.
-3. Explore the Overview and Product Analysis pages.
-4. Use the available filters to interact with the dashboard.
+## 💡 Business Recommendations
+- Prioritize beverage products, which contribute the largest share of revenue.
+- Maintain the availability and quality of high-performing products.
+- Strengthen sales strategies in top-performing cities, particularly Bandung.
+- Explore opportunities to increase revenue in lower-performing cities and product categories.
 
-## Project Purpose
+## 🛠️ Tools & Skills
+- **Power BI** – Dashboard development and data visualization
+- **Data Analysis** – Business performance and trend analysis
+- **Business Intelligence** – KPI monitoring and insight generation
 
-This project demonstrates practical skills in business performance monitoring, KPI visualization, product performance analysis, and interactive dashboard development using Power BI.
+## 📈 Key Metrics
+| Metric | Value |
+|---|---:|
+| Total Revenue | 170M |
+| Total Transactions | 4K |
+| Total Quantity Sold | 6K |
+| Gross Profit | 117M |
+| Total Products | 28 |
+| Average Product Price | 41.21K |
+| Average Gross Margin | 69.43% |
+
+## 📝 Conclusion
+The analysis shows that beverages are the main revenue contributor, Bandung is the highest-performing city, and Nasi Goreng Kopi is the top product by revenue. These findings can help the business prioritize key products, strengthen market strategies, and identify opportunities for further growth.
+
+---
+
+*This project was created for business performance analysis and data visualization practice.*
